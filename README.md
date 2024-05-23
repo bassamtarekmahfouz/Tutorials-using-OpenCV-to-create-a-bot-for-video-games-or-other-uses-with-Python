@@ -1,6 +1,6 @@
 # Item Detection
 
-This Python script utilizes computer vision techniques to detect and annotate items in a real-time window environment. It's particularly useful for scenarios where objects need to be identified and labeled within a graphical user interface.
+This Python script utilizes computer vision techniques to detect items in a real-time window environment. It's particularly useful for scenarios where objects need to be identified and labeled within a graphical user interface.
 
 ## Libraries Used
 
