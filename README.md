@@ -4,13 +4,8 @@ This Python script utilizes computer vision techniques to detect items in a real
 
 ## Libraries Used
 
-- **OpenCV (cv2)**: A popular library for computer vision tasks such as image processing, object detection, and annotation.
-- **Win32 GUI (win32gui, win32ui, win32con)**: These libraries provide functionality to interact with the Windows operating system, particularly for capturing and manipulating window content.
-
-## Data Structures
-
-- `Items`: An empty list used to store information about detected items.
-- `Item` class: Defines the structure of an item, including its bounding rectangle and centroid coordinates.
+- **OpenCV (cv2)**: 
+- **Win32 GUI (win32gui, win32ui, win32con)**:
 
 ## Color Thresholds
 
